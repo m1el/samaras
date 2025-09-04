@@ -10,3 +10,5 @@ pub mod rand32_simd;
 
 pub mod u56_to_seed;
 pub use u56_to_seed::U56ToSeed;
+
+pub mod xorshift128;
